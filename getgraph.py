@@ -15,7 +15,7 @@ def filecut(fname,wmd):
                 w[i][j]=0.0
     return s,w
 
-# wmd=wmd.a()
-# s,w=filecut("test.txt",wmd)
-# print(w)
+wmd=wmd.a()
+s,w=filecut("test.txt",wmd)
+print(w)
 
