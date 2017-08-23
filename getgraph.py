@@ -19,3 +19,4 @@ wmd=wmd.a()
 s,w=filecut("test.txt",wmd)
 print(w)
 
+print("只是一个尝试")
